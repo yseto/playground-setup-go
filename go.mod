@@ -1,0 +1,3 @@
+module playground-setup-go
+
+go 1.27.0
