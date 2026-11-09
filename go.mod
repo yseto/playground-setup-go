@@ -1,5 +1,4 @@
 module playground-setup-go
 
-go 1.26
+go 1.26.0
 
-toolchain go1.27.0
